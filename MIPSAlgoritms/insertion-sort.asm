@@ -1,3 +1,8 @@
+#####################################################################
+# Implementação do algoritmo Insertion Sort
+# Primeiro eu alimento o array com os valores de 5 a 1(em ordem decrescente), depois ordeno o array e imprimo todas as posições
+#####################################################################
+
 .data 
 	msg1: 	.asciiz "\nArray Recebido: "	
 	msg2: 	.asciiz "\nArray Ordenado: "	

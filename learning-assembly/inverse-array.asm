@@ -1,5 +1,5 @@
 #################################################################################
-# Exemplo de for que usa o decremento ao ivpes do incremento
+# Exemplo de for que usa o decremento ao invés do incremento
 # O exemplo armazena os valores 5 a 1 no array e depois imprime todas as posições do array
 #################################################################################
 
